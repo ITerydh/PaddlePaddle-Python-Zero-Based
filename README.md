@@ -2,7 +2,7 @@
 百度飞桨领航团零基础Python入门
 
 ---
-typora-root-url: asserts
+typora-root-url: https://github.com/ITerydh/PaddlePaddle-Python-Zero-Based/blob/main/asserts
 ---
 
 ![在这里插入图片描述](1.png)
