@@ -22,7 +22,7 @@ Table of Contents
          * [数据类型间相互转换](#数据类型间相互转换)
          * [组合数据类型](#组合数据类型)
             * [list](#list)
-            * [元组 tuple](#元组 tuple)
+            * [元组 tuple](#元组tuple)
          * [可变对象 不可变对象](#可变对象不可变对象)
          * [字典dict](#字典dict)
          * [集合 set](#集合set)
