@@ -1,5 +1,6 @@
 # PaddlePaddle-Python-Zero-Based
 百度飞桨领航团零基础Python入门
+https://aistudio.baidu.com/aistudio/course/introduce/7073
 ---
 
 ![在这里插入图片描述](https://github.com/ITerydh/PaddlePaddle-Python-Zero-Based/blob/main/asserts/1.png)
